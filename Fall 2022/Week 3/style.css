@@ -1,0 +1,9 @@
+#blinkText {
+    color: #2d38be;
+    transition: 0.5s;
+}
+
+body{
+    background-color:black;
+    color:cornflowerblue;
+}
